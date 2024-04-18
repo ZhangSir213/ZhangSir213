@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on something
-- 📫 How to reach me QQ:2587225040 Wechat:zhanghaoyu213 Gmail:zhangsir213@gmail.com
+- 📫 How to reach me Gmail:zhangsir213@gmail.com
 
 <!---
 ZhangSir213/ZhangSir213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
